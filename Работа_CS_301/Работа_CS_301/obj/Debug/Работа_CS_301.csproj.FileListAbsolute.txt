@@ -1,0 +1,8 @@
+C:\Users\radio\Labs\C#\Работа_CS_301\Работа_CS_301\bin\Debug\Работа_CS_301.exe.config
+C:\Users\radio\Labs\C#\Работа_CS_301\Работа_CS_301\bin\Debug\Работа_CS_301.exe
+C:\Users\radio\Labs\C#\Работа_CS_301\Работа_CS_301\bin\Debug\Работа_CS_301.pdb
+C:\Users\radio\Labs\C#\Работа_CS_301\Работа_CS_301\obj\Debug\Работа_CS_301.csproj.AssemblyReference.cache
+C:\Users\radio\Labs\C#\Работа_CS_301\Работа_CS_301\obj\Debug\Работа_CS_301.csproj.SuggestedBindingRedirects.cache
+C:\Users\radio\Labs\C#\Работа_CS_301\Работа_CS_301\obj\Debug\Работа_CS_301.csproj.CoreCompileInputs.cache
+C:\Users\radio\Labs\C#\Работа_CS_301\Работа_CS_301\obj\Debug\Работа_CS_301.exe
+C:\Users\radio\Labs\C#\Работа_CS_301\Работа_CS_301\obj\Debug\Работа_CS_301.pdb
